@@ -11,7 +11,8 @@ The player who wins the current game plays first next game.
 The players must moan at the end of their turn.
 The game board in specific set of squares inside an infinite plain. 
 	Add "!Endless/1" to a game's file to make every square usable.
-Players may move the (normally) 3x3 grid of usable squares.
+Players must move the (normally) 3x3 grid of usable squares.
+Once a Cross and a board movement have been completed, your turn ends.
 
 To be added:
 
