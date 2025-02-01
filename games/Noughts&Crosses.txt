@@ -1,0 +1,10 @@
+@-3^0/1^4
+*colours/grey,black
+#win_line/3
++w/ChangeBoard/MoveBoard/1/0/-1/-1
++a/ChangeBoard/MoveBoard/1/1/-1/-1
++s/ChangeBoard/MoveBoard/1/0/1/1
++d/ChangeBoard/MoveBoard/1/1/1/1
+%Noughts&Crosses/1/1/0
+%MoveBoard/1/1/0
+&moan
